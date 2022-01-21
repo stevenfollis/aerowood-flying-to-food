@@ -1,0 +1,423 @@
+[
+  {
+    "airport": {
+      "code": "43A",
+      "name": "Montgomery County Airport",
+      "nearby_city": "Star, NC",
+      "coordinates": "-79.790,35.385"
+    },
+    "restaurants": [
+      {
+        "name": "Martha's Grill",
+        "phone": "(910) 428-1417",
+        "address": "220 S Main St, Star, NC 27356",
+        "hours": "Mon-Sat 5:00am-2:00pm, plus on Thu and Fri they stay open 5:00am-8:00pm. Closed Sunday.",
+        "url": "https://www.facebook.com/Marthas-Grill-186781038008347/",
+        "notes": "Old service station. Love it, especially for breakfast. Right off the end of the runway, short walk from FBO."
+      },
+      {
+        "name": "Sherry's Family Restaurant",
+        "phone": "(910) 428-9229",
+        "address": "890 S Main St, Star, NC 27356",
+        "hours": "",
+        "url": "https://www.facebook.com/890star/",
+        "notes": "Serves breakfast all day!"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "",
+      "name": "Stanton's BBQ and Fish Camp Fly-In Restaurant",
+      "nearby_city": "Bennettsville, SC",
+      "coordinates": "-79.67,34.73"
+    },
+    "restaurants": [
+      {
+        "name": "Stanton’s BBQ and Fish Camp Fly-In Restaurant",
+        "phone": "8432653171",
+        "address": "2828 Stanton's Road Bennettsville, SC 29512",
+        "hours": "Open Thu and Fri 11a-2p and 5p-830p, Sat 11a-830p, Sun 11a-230p. Closed Mon-Wed",
+        "url": "https://www.stantonsbbq.com",
+        "notes": "2300 foot runway (with a dogleg in the middle) Grass strip near Bennettsville SC. Walk from your airplane across the rural highway to the restaurant. Not on sectional (34.73N 79.67W) , need to be current on your short field flying and you cannot take an Aerowood airplane to a grass field without approval from an Aerowood CFI (which you get by taking them there and buying them lunch)."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "EHO",
+      "name": "Shelby County Regional Airport",
+      "nearby_city": "Shelby, NC",
+      "coordinates": "-81.601,35.256",
+      "elevation": "846.6 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Flying Pig BBQ",
+        "phone": "7044870087",
+        "address": "901 College Ave, Shelby, NC 28152",
+        "hours": "Open Mon-Fri 1030a-730p, Sat 11a-4p, closed Sunday",
+        "url": "",
+        "notes": "[Closed?] Walk down the ramp toward the runway to the path through the grass to the cemetery, open lock (code is SOCK) and walk thru cemetery and cross road to restaurant"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "BQ1",
+      "name": "Gilliam - MC Connell Airfield Airport",
+      "nearby_city": "Carthage, NC",
+      "coordinates": "-79.437,35.342",
+      "elevation": "445 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Pik-n-Pig",
+        "phone": "9109477591",
+        "address": "194 Gilliam McConnell Road Carthage, NC 28327 ",
+        "hours": "Tuesday - Saturday: 11am - 8pm. Sunday: 11 - 3pm",
+        "url": "http://www.pik-n-pig.com",
+        "notes": "2500’ paved strip with interesting approaches. Park on the grass right in front of the restaurant."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "CUB",
+      "name": "Jim Hamilton L B Owens Airport",
+      "nearby_city": "Columbia, SC",
+      "coordinates": "-80.995,33.970",
+      "elevation": "193.4 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Hunter-Gatherer Brewery & Ale House",
+        "phone": "8037480540",
+        "address": "900 Main St, Columbia, SC 29201",
+        "hours": "Open Wed-Thu 4p-10p, Fri 4p-11p, Sat 11a-11p, Sun 1p-8p",
+        "url": "https://huntergathererbrewery.com/",
+        "notes": "Hunter-Gatherer Brewery & Ale House is on the NE end of the field in the historic Curtiss-Wright Hangar. Walking distance from FBO"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "SPA",
+      "name": "Spartanburg Downtown Memorial Airport",
+      "nearby_city": "Spartanburg, SC",
+      "coordinates": "-81.956,34.916",
+      "elevation": "801.9 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Beacon Drive In",
+        "phone": "8645859387",
+        "address": "255 John B. White, Sr. Boulevard, Spartanburg, SC 29306",
+        "hours": "TUESDAY - THURSDAY:  7:30AM - 9:00PM, FRIDAY & SATURDAY:  7:30AM - 10:00PM, CLOSED CHRISTMAS DAY, THANKSGIVING DAY, EASTER, MOTHER'S DAY",
+        "url": "https://www.beacondrivein.com/",
+        "notes": "5 minute drive (courtesy car or Uber) the Beacon Drive-in. Serving since 1946!"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "HKY",
+      "name": "Hickory Regional Airport",
+      "nearby_city": "Hickory, NC",
+      "coordinates": "-81.390,35.741",
+      "elevation": "1189.6 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Crosswind Cafe",
+        "phone": "8283247800",
+        "address": "3101 9th Avenue Dr NW, Hickory, NC 28601 ·",
+        "hours": "Open M-F 8a-3p, Sat 8a-2p. Closed Sun.",
+        "url": "http://www.crosswindcafe.com/",
+        "notes": "Park on the “restaurant ramp” right in front of the restaurant. Also has Hickory Aviation Museum, open Tue-Fri 10a-3p, Sat 10a-5p, Sun 1p-5p. "
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "FQD",
+      "name": "Rutherford County Airport",
+      "nearby_city": "Rutherfordton, NC",
+      "coordinates": "-81.935,35.428",
+      "elevation": "1077.3 feet"
+    },
+    "restaurants": [
+      {
+        "name": "57 Alpha Cafe",
+        "phone": "8282861677",
+        "address": "618 Airport Rd, Rutherfordton, NC 28139",
+        "hours": "Open Tue-Sun 11a-3p",
+        "url": "https://www.57alpha.com/",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "GMU",
+      "name": "Greenville Downtown Airport",
+      "nearby_city": "Greenville, SC",
+      "coordinates": "-82.350,34.848",
+      "elevation": "1048 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Runway Cafe",
+        "phone": "8649918488",
+        "address": "21 Airport Road Extension, Greenville, South Carolina 29607",
+        "hours": "Open from 11am-2:30pm 7 days a week",
+        "url": "https://runwaycafegmu.com/",
+        "notes": "Tie down on the “restaurant ramp” right in front of the restaurant. Includes playground for kids and a 20% discount for pilots."
+      },
+      {
+        "name": "White Duck Taco Shop",
+        "phone": "8648407955",
+        "address": "301 Airport Rd Greenville, SC 29607",
+        "hours": "Closed Monday. Tuesday-Saturday 11:30-9:00. Sunday 11:00-4:00",
+        "url": "https://whiteducktacoshop.com/",
+        "notes": "0.3 mile walk from the ramp. Dining room and expansive outdoor seating."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KMTV",
+      "name": "Blue Ridge Airport",
+      "nearby_city": "Martinsville, VA",
+      "coordinates": "-80.018,36.631",
+      "elevation": "940.9 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Simply Suzanne's Cafe",
+        "phone": "2769571142",
+        "address": "525 Airport Rd, Spencer, VA",
+        "hours": "Open 11a-4p Tue-Sun, Closed Mon",
+        "url": "https://www.facebook.com/simplysuzannescafe",
+        "notes": "Tie down on the “restaurant ramp” right in front of the restaurant. Best burger around and great mountain views without really getting in the middle of the hills!"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KCPC",
+      "name": "Columbus County Municipal Airport",
+      "nearby_city": "Whiteville, NC",
+      "coordinates": "-78.715,34.273",
+      "elevation": "99.4 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Joe's Barbecue Kitchen",
+        "phone": "9106423511",
+        "address": "500 Greenhill Dr Whiteville, NC 28472",
+        "hours": "Monday-Friday 10:00 AM - 8:00 PM. Saturday-Sunday 10:00AM - 9:00 PM",
+        "url": "https://www.facebook.com/pages/Joes-Barbecue-Kitchen/111663072204075",
+        "notes": "Usually lowest priced 100LL in NC. Get a courtesy car and drive 3.1 mi to Joe’s Barbecue."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KTDF",
+      "name": "Raleigh Regional at Person County Airport",
+      "nearby_city": "Roxboro, NC",
+      "coordinates": "-78.985,36.285",
+      "elevation": "608.9 feet"
+    },
+    "restaurants": [
+      {
+        "name": "The Homestead Steakhouse",
+        "phone": "3363648506",
+        "address": "205 Frank Timberlake Rd Timberlake, NC 27583",
+        "hours": "Open Tue-Thu 5p-9p, Fri 5p-930p, Sun 1130a-830p, closed Monday.",
+        "url": "https://www.thehomesteadsteakhousenc.com/",
+        "notes": "Reliable sources (even though they are pilots) tell me that you can get a ride for the 1.4 mi to the Homestead Steakhouse and Restaurant. "
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KCHS",
+      "name": "Charleston International Airport",
+      "nearby_city": "Charleston, SC",
+      "coordinates": "-80.041,32.899",
+      "elevation": "46 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Fleet Landing Restaurant & Bar",
+        "phone": "8437228100",
+        "address": "186 Concord St. Charleston, SC 29401",
+        "hours": "Open 11a-330p 7 days/week, also Sun-Thu 5p-10p, Fri-Sat 5p-11p, Brunch Sat and Sun 11a-3p",
+        "url": "https://fleetlanding.net/",
+        "notes": "Charleston is a nice place to visit but airports aren't that close to town. Love landing at CHS or LRO, getting a courtesy or rental car and going downtown to wander around and eat overlooking the water at Fleet Landing. There are lots of seafood restaurants at Shem Creek, which is only 12 miles from LRO."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KHNZ",
+      "name": "Henderson/Oxford Airport",
+      "nearby_city": "Oxford, NC",
+      "coordinates": "-78.530,36.361",
+      "elevation": "526.3 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Milanos Oxford",
+        "phone": "(919) 693-6444",
+        "address": "127 Williamsboro St, Oxford, NC 27565",
+        "hours": "Open Mon-Sat 1030a-930p, Sun 11a-930p",
+        "url": "https://www.facebook.com/milanos.oxford/",
+        "notes": "Fly in, get the courtesy car, and drive 5.2 mi to Main Street in Oxford NC to eat Italian at Milano’s. Well worth the short drive!"
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "W78",
+      "name": "William M Tuck Airport",
+      "nearby_city": "South Boston, VA",
+      "coordinates": "-78.848,36.709",
+      "elevation": "419.8 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Ernie's Restaurant",
+        "phone": "(434) 572-3423",
+        "address": "1010 John Randolph Blvd, South Boston, VA 24592",
+        "hours": "Wednesday-Sunday 11 AM - 9 PM. Closed Monday-Tuesday.",
+        "url": "https://ernies-restaurant.com/",
+        "notes": "Call Ernies Restaurant and they will come pick you up at the airport."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KSUT",
+      "name": "Cape Fear Regional Jetport",
+      "nearby_city": "Oak Island, NC",
+      "coordinates": "-78.073,33.931",
+      "elevation": "26 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Provision Company",
+        "phone": "(910) 457-0654",
+        "address": "130 Yacht Basin Drive Southport, NC 28461",
+        "hours": "Open Lunch and Dinner 7 days/week. BUT closed Nov-March",
+        "url": "https://provisioncompany.com/",
+        "notes": "Good seafood restaurants nearby, my favorite is the Provision Company. Very near is Fishy Fishy Café , both are on the water. They stay open later into the winter AND they have a webcam so you can see what the weather is before you go! You can rent a car through the FBO - though if you just want seafood for lunch you might be able to get the crew car. BONUS – beside Fishy Fishy is Potter’s Seafood, so pack a cooler and buy fresh fish caught on the NC coast and unloaded from the boat at the adjacent dock.       "
+      },
+      {
+        "name": "Fishy Fishy Cafe",
+        "phone": "(910) 457-1881",
+        "address": "106 Yacht Basin Drive Southport, NC 28461",
+        "hours": "Sunday-Thursday 11 AM - 8:00 PM. Friday-Saturday 11 AM - 9:00 PM",
+        "url": "https://www.fishyfishycafe.com/",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KIXA",
+      "name": "Halifax-Northampton Regional Airport",
+      "nearby_city": "Roanoke Rapids, NC",
+      "coordinates": "-77.635,36.330",
+      "elevation": "144.3 feet"
+    },
+    "restaurants": [
+      {
+        "name": "The Hen & the Hog",
+        "phone": "(252) 583-1017",
+        "address": "16 King St, Halifax, NC 27839",
+        "hours": "Tue & Wed 11a-3p, Thu & Fri 11a-3p, then 6p-10p, Sat 6p-10p",
+        "url": "https://thehenthehog.com/",
+        "notes": "The Hen and The Hog is 3.3 miles from IXA, a short drive in the FBO’s Crown Vic (former Police cruiser) courtesy car."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KLZU",
+      "name": "Gwinnett County Airport",
+      "nearby_city": "Lawrenceville, GA",
+      "coordinates": "-83.962,33.978",
+      "elevation": "1061.5 feet"
+    },
+    "restaurants": [
+      {
+        "name": "The Flying Machine",
+        "phone": "(770) 962-2262",
+        "address": "510 Briscoe Blvd Ste 100, Lawrenceville, GA 30046",
+        "hours": "Open 7 days/week",
+        "url": "http://www.theflyingmachine.com/",
+        "notes": "Located on the south end of the field. "
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KMRH",
+      "name": "Michael J Smith Field Airport",
+      "nearby_city": "Beaufort, NC",
+      "coordinates": "-76.660,34.734",
+      "elevation": "10.1 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Roland's BBQ",
+        "phone": "(252) 728-1953",
+        "address": "1507 Live Oak St. Beaufort, NC 28516",
+        "hours": "Tuesday-Thursday 11:00 AM - 7:00 PM. Friday-Saturday 11:00 AM - 8:00 PM. Closed Sunday-Monday.",
+        "url": "https://www.rolandsbarbecue.com/",
+        "notes": "Roland’s BBQ is 1.2 mi from MRH. Hole-in-the wall place with great BBQ. Courtesy car available."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KSSI",
+      "name": "St. Simons Island Airport",
+      "nearby_city": "St. Simons Island, GA",
+      "coordinates": "-81.391,31.152",
+      "elevation": "18.9 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Southern Soul Barbeque",
+        "phone": "(912) 330-2181",
+        "address": "2020 Demere Road St. Simons Island, GA 31522",
+        "hours": "Open Mon-Sat 11am-9pm, Sun 11am-6pm",
+        "url": "http://www.southernsoulbbq.com/",
+        "notes": "Get the courtesy car and drive (or you can walk if it’s a nice day, only 0.3 mile) to Southern Soul BBQ, featured on Diners, Drive-Ins, and Dives."
+      }
+    ]
+  },
+  {
+    "airport": {
+      "code": "KFFA",
+      "name": "First Flight Airport",
+      "nearby_city": "Kill Devil Hills, NC",
+      "coordinates": "-75.672,36.018",
+      "elevation": "11.9 feet"
+    },
+    "restaurants": [
+      {
+        "name": "Outer Banks Brewing Station",
+        "phone": "(252) 499-2739",
+        "address": "600 S Croatan Hwy, Kill Devil Hills, NC 27948",
+        "hours": "Wednesday-Sunday 11:30 AM. Closed Monday-Tuesday",
+        "url": "https://www.obbrewing.com/",
+        "notes": "Birthplace of aviation – where the Wright Brothers flew on Dec 17, 1903. Every pilot has to make the pilgrimage here. Land (3000’ paved strip, be good at crosswinds), walk over to the Wright Brothers Memorial, then less than a mile walk to Outer Banks Brewing Company. From EQY, fly to TYI then between the restricted areas to FFA. If you need fuel, MQI is 6 miles across the water from FFA. Then you can fly VFR down the coast, just offshore from the Outer Banks, drop in at HSE (Billy Mitchell field at Frisco/Cape Hatteras) and W95 (Ocracoke) and land at MRH. Return inland from there – or you can continue to follow the coast south but you’ll have to go offshore to avoid Restricted areas"
+      }
+    ]
+  }
+]

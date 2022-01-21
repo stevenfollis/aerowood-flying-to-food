@@ -1,0 +1,20 @@
+{
+  "name": "aerowood-flying-to-food",
+  "version": "1.0.0",
+  "description": "Automatically generate a custom layer for ForeFlight containing interesting locations to eat neat EQY.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  },
+  "dependencies": {
+    "xml2js": "github:Leonidas-from-XIV/node-xml2js"
+  }
+}
