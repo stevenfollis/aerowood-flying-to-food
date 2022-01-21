@@ -11,4 +11,3 @@ This project generates a custom [ForeFlight](https://www.foreflight.com/) layer 
 Did we miss a spot? Please feel free to submit a Pull Request and we will add it in!
 
 > Inspiration and content is largely based on the [original Word Document](https://aerowoodaviation.com/site/wp-content/uploads/2021/04/Flying-to-Food.pdf) compiled by **Ron Horton** of [Aerowood Aviation](https://aerowoodaviation.com/) in Monroe, North Carolina.
-# aerowood-flying-to-food
